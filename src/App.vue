@@ -109,7 +109,7 @@ export default {
 		return {
 			prefix: "",
 			sufix: "",
-			prefixes: ["Air", "Jet", "Flight"],
+			prefixes: ["Teste", "Jet", "Flight"],
 			sufixes: ["Hub", "Mart", "Station"],
 			domains: [
 				"AirHub",
