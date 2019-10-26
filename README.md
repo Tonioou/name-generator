@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fullstack_vue_graphql_node
 
 ## Project setup
@@ -28,7 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # name-generator
 Projeto para estudo de Vue.Js, Graphql e Node.js
->>>>>>> e9ad5c45612452c6f7c34b508ab88462eff31a1f
